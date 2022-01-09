@@ -1,2 +1,2 @@
 # 404-page
-Preview website: http://htmlpreview.github.io/?https://github.com/emily1in/404-page/blob/main/index.html
+Preview website: https://emily1in.github.io/404-page/
